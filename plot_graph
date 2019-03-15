@@ -45,3 +45,4 @@ def plot_love_happens(personA, personB, nash_equilibria):
     #print(y) for debugging purposes
     return(graph)
     
+    plot_love_happens(group1, group2, equilibria)
