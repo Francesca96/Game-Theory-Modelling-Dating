@@ -1,3 +1,6 @@
+'''
+Plot scatter graph according to equilibria result indicating (1,1) entry of utility matrix
+'''
 
 import matplotlib
 import matplotlib.pyplot as plt
