@@ -38,6 +38,10 @@ def pop_utility_matrix(group):
 A = pop_utility_matrix(group1)
 B = pop_utility_matrix(group2)
 
+'''
+Calculate equilibria for each game using support enumeration
+'''
+
 def equilibria_speed_dates(date1, date2):
     equilibria_results = []
     for r in range(len(date1)):
