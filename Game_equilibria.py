@@ -1,3 +1,7 @@
+'''
+Populate utility matrices according to attributes in list from previous function
+'''
+
 def pop_utility_matrix(group):
     utility_matrices = []
     for k in range(len(group)):
