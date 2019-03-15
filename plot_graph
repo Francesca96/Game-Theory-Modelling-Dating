@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import statistics
 
+equilibria = equilibria_speed_dates(A,B)
+
 def plot_love_happens(personA, personB, nash_equilibria):
     x = []
     y = []
