@@ -2,6 +2,10 @@ import random
 import nashpy as nash
 import numpy as np
 
+'''
+Create list of attributes confidence and attraction level, randomly
+'''
+
 def date_attributes(n_list):
     attributes = []
     for i in range(n_list):
